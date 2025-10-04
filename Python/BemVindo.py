@@ -1,5 +1,3 @@
-_Olha meu programa em Python feito para esse repositório_
-```
 from time import sleep
 nome_do_gafanhoto = str(input("Digite seu nome, gafanhoto(a): ")).strip().upper()
 sleep(2)
@@ -21,4 +19,3 @@ while True:
         print("Opa, escorregou no botão? Não tem problema! Tente novamente.")
 sleep(4)
 print("<< Programa finalizado! Obrigado por ser compreensivo e se interessar um pouco por mim >> ")
-```
